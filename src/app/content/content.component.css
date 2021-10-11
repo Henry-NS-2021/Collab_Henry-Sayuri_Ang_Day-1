@@ -1,0 +1,16 @@
+section {
+    background-image: url("https://cdn.dribbble.com/users/2002439/screenshots/4034261/2.jpg");
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.card {
+    opacity: 0.8;
+
+}
+
+.card-footer {
+    text-align: right;
+}
